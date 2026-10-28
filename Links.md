@@ -1,5 +1,5 @@
 # Links to other projects and sites
-[LinkedIn](www.linkedin.com/in/alexander-kindall)
+[LinkedIn](www.linkedin.com/alexander-kindall)
 
 [Itch.io](https://pvrpleheartcreations.itch.io/)
 
