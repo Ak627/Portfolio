@@ -8,4 +8,4 @@
 
 [Web Development Projects. (Private Repos Must Upate)](WebApp.md)
 
-[Other Relevant Links.](Links.md)
+[Personal Links and Projects.](Links.md)
